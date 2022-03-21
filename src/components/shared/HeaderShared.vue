@@ -21,8 +21,13 @@ export default {
   props: {
     counter:  {
       type: Number,
-      required: true,
       default: 0
+    },
+
+    methods: {
+      addCounter() {
+        this.counter
+      }
     }
   }
 }
