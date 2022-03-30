@@ -34,7 +34,7 @@ export default {
 
   methods: {
     addCounter() {
-      console.log('Button clicked')
+      alert('Button clicked')
     }
   }
 }

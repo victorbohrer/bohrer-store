@@ -1,6 +1,6 @@
 <template>
     <main class="px-7 py-10 bg-[#fffffe]">
-        <h2 class="text-2xl">
+        <h2 class="text-8xl py-[220px]">
             Iam home
         </h2> 
     </main>
